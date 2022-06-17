@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "pkglite"]
+	path = pkglite
+	url = https://github.com/merck/pkglite
+	shallow = true
+	registered = true
+[submodule "r2rtf"]
+	path = r2rtf
+	url = https://github.com/merck/r2rtf
+	shallow = true
+	registered = true
+[submodule "Rspc"]
+	path = Rspc
+	url = https://github.com/merck/spc_package
+	shallow = true
+	registered = true

@@ -1,0 +1,14 @@
+[
+  {
+    "package": "pkglite",
+    "oncran": true
+  },
+  {
+    "package": "r2rtf",
+    "oncran": true
+  },
+  {
+    "package": "Rspc",
+    "oncran": true
+  }
+]
