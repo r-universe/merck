@@ -1,5 +1,9 @@
 [
   {
+    "package": "gMCPLite",
+    "oncran": true
+  },
+  {
     "package": "pkglite",
     "oncran": true
   },
