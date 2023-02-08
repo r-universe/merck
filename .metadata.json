@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "metalite",
+    "oncran": true
+  },
+  {
     "package": "pkglite",
     "oncran": true
   },

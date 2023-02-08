@@ -8,6 +8,11 @@
 	url = https://github.com/merck/gmcplite
 	shallow = true
 	registered = true
+[submodule "metalite"]
+	path = metalite
+	url = https://github.com/merck/metalite
+	shallow = true
+	registered = true
 [submodule "pkglite"]
 	path = pkglite
 	url = https://github.com/merck/pkglite
