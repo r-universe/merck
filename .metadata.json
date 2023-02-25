@@ -8,6 +8,10 @@
     "oncran": true
   },
   {
+    "package": "metalite.ae",
+    "oncran": true
+  },
+  {
     "package": "pkglite",
     "oncran": true
   },
