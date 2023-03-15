@@ -1,18 +1,10 @@
 [
   {
-    "package": "r2rtf",
-    "oncran": true
-  },
-  {
-    "package": "Rspc",
-    "oncran": true
-  },
-  {
-    "package": "pkglite",
-    "oncran": true
-  },
-  {
     "package": "gMCPLite",
+    "oncran": true
+  },
+  {
+    "package": "metalite",
     "oncran": true
   },
   {
@@ -20,7 +12,15 @@
     "oncran": true
   },
   {
-    "package": "metalite",
+    "package": "pkglite",
+    "oncran": true
+  },
+  {
+    "package": "r2rtf",
+    "oncran": true
+  },
+  {
+    "package": "Rspc",
     "oncran": true
   }
 ]
