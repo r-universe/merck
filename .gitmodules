@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "Rspc"]
+	path = Rspc
+	url = https://github.com/merck/spc_package
 [submodule "boxly"]
 	path = boxly
 	url = https://github.com/merck/boxly
@@ -23,6 +26,3 @@
 [submodule "r2rtf"]
 	path = r2rtf
 	url = https://github.com/merck/r2rtf
-[submodule "Rspc"]
-	path = Rspc
-	url = https://github.com/merck/spc_package
