@@ -26,3 +26,6 @@
 [submodule "r2rtf"]
 	path = r2rtf
 	url = https://github.com/merck/r2rtf
+[submodule "simtrial"]
+	path = simtrial
+	url = https://github.com/merck/simtrial
