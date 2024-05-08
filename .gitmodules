@@ -23,6 +23,9 @@
 [submodule "pkglite"]
 	path = pkglite
 	url = https://github.com/merck/pkglite
+[submodule "psm3mkv"]
+	path = psm3mkv
+	url = https://github.com/merck/psm3mkv
 [submodule "r2rtf"]
 	path = r2rtf
 	url = https://github.com/merck/r2rtf
