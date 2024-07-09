@@ -8,6 +8,9 @@
 [submodule "boxly"]
 	path = boxly
 	url = https://github.com/merck/boxly
+[submodule "forestly"]
+	path = forestly
+	url = https://github.com/merck/forestly
 [submodule "gMCPLite"]
 	path = gMCPLite
 	url = https://github.com/merck/gmcplite
