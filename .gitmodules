@@ -23,6 +23,9 @@
 [submodule "metalite.ae"]
 	path = metalite.ae
 	url = https://github.com/merck/metalite.ae
+[submodule "metalite.sl"]
+	path = metalite.sl
+	url = https://github.com/merck/metalite.sl
 [submodule "pkglite"]
 	path = pkglite
 	url = https://github.com/merck/pkglite
