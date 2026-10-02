@@ -17,6 +17,10 @@
 [submodule "gsDesign2"]
 	path = gsDesign2
 	url = https://github.com/merck/gsdesign2
+[submodule "lt"]
+	path = lt
+	url = https://github.com/yihui/lt
+	registered = false
 [submodule "metalite"]
 	path = metalite
 	url = https://github.com/merck/metalite
@@ -38,3 +42,7 @@
 [submodule "simtrial"]
 	path = simtrial
 	url = https://github.com/merck/simtrial
+[submodule "xfun"]
+	path = xfun
+	url = https://github.com/yihui/xfun
+	registered = false

@@ -1,0 +1,14 @@
+[
+  {
+    "package": "lt",
+    "url": "https://github.com/yihui/lt",
+    "via": ["forestly"],
+    "from": "forestly"
+  },
+  {
+    "package": "xfun",
+    "url": "https://github.com/yihui/xfun",
+    "via": ["forestly"],
+    "from": "forestly"
+  }
+]
